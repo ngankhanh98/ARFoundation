@@ -2,6 +2,8 @@
 # ARFoundation in Android for tracking image
 _Tài liệu tìm hiểu: lý thuyết [AR Foundation](https://unity.com/unity/features/arfoundation) của [Unity](https://unity.com) và thực hành cài đặt tính năng Image Tracking trên Android_
 
+**Mã nguồn**:  https://github.com/ngankhanh98/ARFoundation
+
 ## Mục lục
 
   * [AR Foundation](#ar-foundation)
@@ -13,7 +15,6 @@ _Tài liệu tìm hiểu: lý thuyết [AR Foundation](https://unity.com/unity/f
       - [**Tạo AR Foundation project**](#**tạo-ar-foundation-project**)
       - [**Cài đặt ARCore và ARKit**](#**cài-đặt-arcore-và-arkit**)
       - [**Build setting**](#**build-setting**)
-    + [Ứng dụng minh họa Image Tracking](#ứng-dụng-minh-họa-image-tracking)
   * [References](#references)
 
 
@@ -81,12 +82,6 @@ Trên menu bar, chọn **Build Settings...**. Trong Build Settings windows, ch�
 
 Với Android, bạn cần có [**ARCore supported devices**](https://developers.google.com/ar/discover/supported-devices) để cài đặt **.apk** đã được build.
 
-### Ứng dụng minh họa Image Tracking
-#### **Source code**
-Tải về mã nguồn từ đây hoặc trong terminal nhập:
-```bash
-$ git clone https://github.com/ngankhanh98/ARFoundation.git
-```
 ## References
 - [Unity - Manual:  Unity User Manual (2019.4 LTS)](https://docs.unity3d.com/Manual/index.html)
 - [Unity's AR Foundation Frameword](https://unity.com/unity/features/arfoundation)
